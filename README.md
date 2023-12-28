@@ -1,1 +1,1 @@
-This is a repository of a few projects I have done in class and outside that best represent my abilities.
+Here is a repository of class and independent projects that demonstrate my base coding capabilities and knowledge.
