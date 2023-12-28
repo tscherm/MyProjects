@@ -1,3 +1,3 @@
-These are all from my CS 577 Algorithms class.
+These projects are all from my CS 577 Introduction to Algorithms class.
 
-They require relatively specific inputs which I will describe for each soon.
+Each require relatively specific inputs. I will describe and provide example inputs for each soon.
